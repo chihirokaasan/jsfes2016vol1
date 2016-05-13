@@ -1,0 +1,15 @@
+{
+  "name": "tiny_app",
+  "version": "1.0.0",
+  "description": "test-app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kaasan",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.4",
+    "electron-json-storage": "^2.0.0"
+  }
+}
